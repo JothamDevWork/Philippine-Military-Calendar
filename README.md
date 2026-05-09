@@ -1,1 +1,1 @@
-This project as made using depracated HTML. This is my first requirement in IE3 - Web.
+This project as made using depracated HTML. This is my first project in IE3 - Web.
